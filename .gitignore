@@ -1,0 +1,10 @@
+*.csr
+*.kubeconfig
+*.pem
+*.json
+bootstrapping-k8s-worker-nodes.sh
+bootstrapping-kubernetes-control-plane.sh
+bootstrapping_an_etcd_cluster.sh
+create-clusterrole.sh
+encryption-config.yaml
+smoke-verification.sh
