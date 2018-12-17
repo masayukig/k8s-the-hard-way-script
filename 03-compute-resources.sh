@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+cat << EOF
 #####################################
 # 03. Provisioning Compute Resources
 # https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/03-compute-resources.md
